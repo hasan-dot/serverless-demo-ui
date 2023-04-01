@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/todo_react_app/static/js/main.bf82cbe2.js",
-    "index.html": "/todo_react_app/index.html",
-    "main.bf82cbe2.js.map": "/todo_react_app/static/js/main.bf82cbe2.js.map"
+    "main.js": "/serverless-demo-ui/static/js/main.bf82cbe2.js",
+    "index.html": "/serverless-demo-ui/index.html",
+    "main.bf82cbe2.js.map": "/serverless-demo-ui/static/js/main.bf82cbe2.js.map"
   },
   "entrypoints": [
     "static/js/main.bf82cbe2.js"
